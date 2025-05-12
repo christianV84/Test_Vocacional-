@@ -1,2 +1,2 @@
 # Test_Vocacional
-hola
+Desarrollado en Google Colab e integrado con técnicas de Machine Learning, este test vocacional analiza las respuestas de los estudiantes basándose en modelos tradicionales de orientación vocacional, incluyendo áreas como habilidades, intereses y fortalezas personales. Gracias al entrenamiento con datos previos, el sistema recomienda automáticamente la carrera profesional más afinada al perfil individual del alumno, proporcionando un porcentaje de afinidad de hasta el 90%. Su propósito es ofrecer una guía personalizada y predictiva para la elección vocacional en estudiantes de secundaria.
